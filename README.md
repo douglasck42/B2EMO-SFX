@@ -13,3 +13,8 @@ All I ask is that if you are successful in further extraction and cleanup of any
 
 ## Voice Lines
 These **combined** with the Baddeley Archive is what ultimately compromises MY B2-EMO Sound Effect triggers. **Rename** the files according to your MP3 Trigger. Mine seem to always been in a bit of flux so I have not done so here.
+
+# Notes
+This archive has been assembled by Douglas Kempthorne [douglas@kempthorne.com](mailto:douglas@kempthorne.com)
+
+Check out the [B2EMO Droid Builder's Group](https://www.facebook.com/share/g/1C2PPJ6gaj/)
