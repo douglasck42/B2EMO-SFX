@@ -12,7 +12,7 @@ These are my own captures of all available scenes that feature B2-EMO, from star
 All I ask is that if you are successful in further extraction and cleanup of any lines that share them back to this repository via a pull request or just reach out to me via email or facebook so that the entire B2-EMO community can benefit. If a sound byte has not made it to the next section it is typically because I was not successful in cleaning up the audio sufficiently
 
 ## Voice Lines
-These **combined** with the Baddeley Archive is what ultimately compromises MY B2-EMO Sound Effect triggers. **Rename** the files according to your MP3 Trigger. Mine seem to always been in a bit of flux so I have not done so here.
+Voice lines that are clean as I can make them using Audacity and the occasional AI tool with mixed success (I am NO sound engineer). These **combined** with the Baddeley Archive is what ultimately compromises MY B2-EMO Sound Effect triggers. **Rename** the files according to your MP3 Trigger. Mine seem to always been in a bit of flux so I have not done so here.
 
 # Notes
 This archive has been assembled by Douglas Kempthorne [douglas@kempthorne.com](mailto:douglas@kempthorne.com)
